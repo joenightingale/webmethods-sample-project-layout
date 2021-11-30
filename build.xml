@@ -55,5 +55,8 @@
         	<ant dir="${SAG_CI_HOME}" antfile="${SAG_CI_HOME}/build.xml" target="test" inheritAll="true"/>
 	</target>
 	
+	<target name="promote" depends="">
+        	<ant dir="${SAG_CI_HOME}" antfile="${SAG_CI_HOME}/build.xml" target="promote" inheritAll="true"/>
+	</target>
 </project>
 
