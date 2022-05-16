@@ -23,14 +23,4 @@
             </expected>
         </service>
     </webMethodsTestCase>
-    <webMethodsTestCase description="Generate a Test Wizard" name="TC_addInts">
-        <service folder="Fibonachi.services" name="addInts">
-            <input>
-                <file filename="resources/test/xml/data/Fibonachi_services_addInts_input.xml"/>
-            </input>
-            <expected>
-                <file filename="resources/test/xml/data/Fibonachi_services_addInts_output.xml"/>
-            </expected>
-        </service>
-    </webMethodsTestCase>
 </webMethodsTestSuite>
