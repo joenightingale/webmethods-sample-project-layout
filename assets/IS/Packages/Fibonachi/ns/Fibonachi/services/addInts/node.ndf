@@ -91,9 +91,7 @@
       <value name="modifiable">true</value>
     </record>
   </record>
-  <value name="node_comment">This service adds to ints together.
-
-JN made x changes 16/05/2022</value>
+  <value name="node_comment"></value>
   <value name="stateless">yes</value>
   <value name="caching">no</value>
   <value name="prefetch">no</value>
