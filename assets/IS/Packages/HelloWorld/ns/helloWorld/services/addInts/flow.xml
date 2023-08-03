@@ -100,9 +100,6 @@
 
   <!-- nodes -->
 
-<MAPDELETE FIELD="/num1;1;0">
-</MAPDELETE>
-
 <MAPDELETE FIELD="/num2;1;0">
 </MAPDELETE>
 </MAP>
