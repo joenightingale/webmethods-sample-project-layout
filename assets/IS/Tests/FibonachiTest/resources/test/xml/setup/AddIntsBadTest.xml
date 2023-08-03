@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<webMethodsTestSuite description="Auto Generated from Template" name="TS_AddInts.xml">
+<webMethodsTestSuite description="Auto Generated from Template" name="TS_AddIntsBadTest.xml">
     <webMethodsTestCase description="Generate a Test Wizard" name="TC_addInts">
         <service folder="Fibonachi.services" name="addInts">
             <input>
