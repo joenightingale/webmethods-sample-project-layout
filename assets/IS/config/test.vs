@@ -28,7 +28,7 @@
       <Property propertyName="datasourceClass" propertyValue="org.postgresql.ds.PGSimpleDataSource"/>
       <Property propertyName="serverName" propertyValue="db"/>
       <Property propertyName="user" propertyValue="testuser"/>
-      <Property propertyName="password" propertyValue="{AES}Y5IgMqjfvkgbg7p5VUZztw=="/>
+      <Property propertyName="password" propertyValue="{AES}nlfklC+ChDfb+fblHqUafA=="/>      
       <Property propertyName="databaseName" propertyValue="testdb"/>
       <Property propertyName="portNumber" propertyValue="5432"/>
       <Property propertyName="networkProtocol" propertyValue=""/>
