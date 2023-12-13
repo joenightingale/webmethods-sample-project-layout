@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Root>
-  <DeploymentSet allowEmptyValues="false" assetCompositeName="Test1" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="buildServer" targetServerType="IS">
+  <DeploymentSet allowEmptyValues="false" assetCompositeName="Test1" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="testServer" targetServerType="IS">
     <Property propertyName="activatePkgOnInstall" propertyValue="true"/>
     <Property propertyName="archivePkgOnInstall" propertyValue="true"/>
     <Property propertyName="compilePackage" propertyValue="true"/>
@@ -11,7 +11,7 @@
     <Property propertyName="syncDocTypesToBroker" propertyValue="true"/>
     <Property propertyName="restartRuntimes" propertyValue="false"/>
   </DeploymentSet>
-  <DeploymentSet allowEmptyValues="false" assetCompositeName="LogDBConnection" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="buildServer" targetServerType="IS">
+  <DeploymentSet allowEmptyValues="false" assetCompositeName="LogDBConnection" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="testServer" targetServerType="IS">
     <Property propertyName="activatePkgOnInstall" propertyValue="true"/>
     <Property propertyName="archivePkgOnInstall" propertyValue="true"/>
     <Property propertyName="compilePackage" propertyValue="true"/>
@@ -43,7 +43,7 @@
       <Property propertyName=".CMGRPROP.startupBackoffSecs" propertyValue="10"/>
     </Component>
   </DeploymentSet>
-  <DeploymentSet allowEmptyValues="false" assetCompositeName="HelloWorld" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="buildServer" targetServerType="IS">
+  <DeploymentSet allowEmptyValues="false" assetCompositeName="HelloWorld" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="testServer" targetServerType="IS">
     <Property propertyName="activatePkgOnInstall" propertyValue="true"/>
     <Property propertyName="archivePkgOnInstall" propertyValue="true"/>
     <Property propertyName="compilePackage" propertyValue="true"/>
@@ -55,7 +55,7 @@
     <Property propertyName="syncDocTypesToBroker" propertyValue="true"/>
     <Property propertyName="restartRuntimes" propertyValue="false"/>
   </DeploymentSet>
-  <DeploymentSet allowEmptyValues="false" assetCompositeName="Fibonachi" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="buildServer" targetServerType="IS">
+  <DeploymentSet allowEmptyValues="false" assetCompositeName="Fibonachi" deploymentSetName="myDeploymentSet" serverAliasName="CI_DEMORepo" targetServerName="testServer" targetServerType="IS">
     <Property propertyName="activatePkgOnInstall" propertyValue="true"/>
     <Property propertyName="archivePkgOnInstall" propertyValue="true"/>
     <Property propertyName="compilePackage" propertyValue="true"/>
