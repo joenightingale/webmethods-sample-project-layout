@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">addInts</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">DQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNCglTdHJpbmcJaW50MSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vy
+c29yLCAiaW50MSIgKTsNCglTdHJpbmcJaW50MiA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVs
+aW5lQ3Vyc29yLCAiaW50MiIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCgkNCmludCB2
+YWx1ZUludCA9IEludGVnZXIucGFyc2VJbnQoaW50MSkgKyBJbnRlZ2VyLnBhcnNlSW50KGludDIp
+Ow0KDQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5l
+LmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlwZWxpbmVDdXJzb3JfMSwgInZhbHVlIiwg
+U3RyaW5nLnZhbHVlT2YodmFsdWVJbnQpICk7DQpwaXBlbGluZUN1cnNvcl8xLmRlc3Ryb3koKTsN
+Cg==</value>
+</Values>
